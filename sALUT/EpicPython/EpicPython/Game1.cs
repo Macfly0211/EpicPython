@@ -20,7 +20,7 @@ namespace EpicPython
         {
             // TODO: Add your initialization logic here
             Window.Title = "Test";
-            // yuyu
+            //YoYo
             base.Initialize();
             
         }
