@@ -18,6 +18,8 @@
 
 #---------------------------------- Content ---------------------------------#
 
+<<<<<<< HEAD
+=======
 #begin Map/Test.tmx
 /importer:TiledMapImporter
 /processor:TiledMapProcessor
@@ -767,3 +769,4 @@
 /processorParam:TextureFormat=Color
 /build:Tile/SRW_Marketplace_tileset_C.png
 
+>>>>>>> 7fb9251ebbf185f100abf0937f10690a9275b273
